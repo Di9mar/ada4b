@@ -38,3 +38,7 @@ This repository includes a dataset named `wiki_data.csv` containing various colu
 Contributions to this project are welcome! Please fork the repository and create a pull request with your improvements or suggestions.
 
 Project Link: https://github.com/Di9mar/ada4b.git
+
+
+## Dirve Folder
+https://drive.google.com/drive/folders/1yMLdiCUE2J_XFjLvO1Fj8G-O-qSRdoSh?usp=drive_link
