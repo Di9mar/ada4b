@@ -19,19 +19,21 @@ Access and prepare datasets from [this Google Drive link](https://drive.google.c
 - combined_abstracts.csv
 - 10%_dataset.csv
 
-Note: Additional folders and files will be created by the scripts.
+Note: Additional folders and files will be created or overwritten by the scripts.
 
 ## Training and Evaluation
 1. **Initial Training**: Run `initial_training_script.py` for the base model.
+
 2. **Further Training**: Use `further_training_script.py`. Customize settings:
    - `trained_model`: Pretrained model for further training.
    - `new_model`: Name for the new model post-training.
    - `data_file`: Dataset for training (from the Drive folder).
+
 3. **Evaluation**: Execute `evaluation_script.py` with adjustments:
    - `current_model`: Models to be evaluated.
    - `data_file`: Dataset for evaluation (from the Drive folder).
 
-utputs such as models, logs, and metrics are saved in the 'ColabData' folder in Drive.
+Outputs such as models, logs, and metrics are saved in the 'ColabData' folder in Drive.
 
 ## Project Link
 [GitHub Repository](https://github.com/Di9mar/ada4b.git)
